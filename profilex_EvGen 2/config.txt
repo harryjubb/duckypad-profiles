@@ -1,0 +1,24 @@
+z1 Objs
+z2 Copy
+z3 FloorUp
+z4 Ops
+z5 Log
+z6 FloorDn
+z7 Resrch
+z8 Mngmnt
+z9 ||
+z10 Train
+z11 Zones
+z12 >>
+z13 Dstrct
+z14 Capture
+z15 Kill
+BG_COLOR 145 20 192
+SWCOLOR_2 32 121 210
+SWCOLOR_3 0 255 64
+SWCOLOR_6 255 51 51
+SWCOLOR_9 255 51 51
+SWCOLOR_12 32 121 210
+SWCOLOR_13 255 255 0
+SWCOLOR_14 255 128 0
+SWCOLOR_15 255 0 0
