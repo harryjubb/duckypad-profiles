@@ -1,1 +1,3 @@
+REM Log
+REM Default keybind
 STRING l

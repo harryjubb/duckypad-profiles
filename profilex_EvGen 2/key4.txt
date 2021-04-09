@@ -1,1 +1,3 @@
+REM Operations
+REM Default keybind
 STRING g

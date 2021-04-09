@@ -1,1 +1,3 @@
+REM Copy selected object
+REM Default keybind
 STRING c

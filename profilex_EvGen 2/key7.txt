@@ -1,1 +1,3 @@
+REM Research
+REM Default keybind
 STRING r

@@ -1,1 +1,3 @@
+REM Distract selected character
+REM Default keybind
 STRING x

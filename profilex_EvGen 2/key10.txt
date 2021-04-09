@@ -1,1 +1,3 @@
+REM Training
+REM Default keybind
 STRING t

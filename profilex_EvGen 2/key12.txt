@@ -1,1 +1,3 @@
+REM Speed up time
+REM Default keybind
 STRING .

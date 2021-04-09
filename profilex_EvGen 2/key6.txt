@@ -1,1 +1,3 @@
+REM Descend to the next floor down
+REM Default keybind
 PAGEDOWN

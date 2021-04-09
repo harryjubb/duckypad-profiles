@@ -1,1 +1,3 @@
+REM Pause the game
+REM Default keybind
 SPACE

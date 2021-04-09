@@ -1,1 +1,3 @@
+REM Ascend to the next floor up
+REM Default keybind
 PAGEUP

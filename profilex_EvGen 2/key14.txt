@@ -1,1 +1,3 @@
+REM Capture selected character
+REM Default keybind
 STRING c

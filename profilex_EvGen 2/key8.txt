@@ -1,1 +1,3 @@
+REM Minion manager
+REM Default keybind
 STRING m

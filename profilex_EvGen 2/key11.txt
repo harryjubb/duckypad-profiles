@@ -1,1 +1,3 @@
+REM Security zones
+REM Default keybind
 STRING z

@@ -1,1 +1,3 @@
+REM Objectives
+REM Default keybind
 STRING o
