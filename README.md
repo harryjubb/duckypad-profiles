@@ -25,3 +25,11 @@ Profile: `profilex_EvGen 2`
 Hotkeys for [Evil Genius 2](https://evilgeniusgame.com/en)
 
 ![Evil Genius 2](./img/eg2.png)
+
+### Visual Studio Code
+
+Profile: `profilex_VSCode`
+
+Hotkeys for [Visual Studio Code](https://code.visualstudio.com/)
+
+![Visual Studio Code](./img/vscode.png)

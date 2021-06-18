@@ -1,0 +1,3 @@
+REM Mac OS X
+REM Make sure the key is mapped in VSCode
+CTRL I

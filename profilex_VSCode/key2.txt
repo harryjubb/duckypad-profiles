@@ -1,0 +1,4 @@
+REM Go to definition
+REM Mac OS X
+REM Make sure the key is mapped in VSCode
+F12
