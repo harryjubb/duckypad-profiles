@@ -28,8 +28,12 @@ Hotkeys for [Evil Genius 2](https://evilgeniusgame.com/en)
 
 ### Visual Studio Code
 
-Profile: `profilex_VSCode`
+Profile: `profilex_VSCode`: Mac OS X
 
 Hotkeys for [Visual Studio Code](https://code.visualstudio.com/)
+
+Requires the Bookmarks extension, and includes a Python-specific import organisation shortcut.
+
+Check that shortcuts match the Duckyscript and adjust the shortcut or Duckyscript as appropriate.
 
 ![Visual Studio Code](./img/vscode.png)
