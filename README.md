@@ -10,6 +10,14 @@ Follow the [instructions](https://github.com/dekuNukem/duckyPad/blob/master/manu
 
 ## Profiles
 
+### Mac OS X
+
+Profile: `profilex_OS X`
+
+Basic macros for OS X.
+
+![OS X](./img/osx.png)
+
 ### Resize windows: Mac OS X
 
 Profile: `profilex_Resize`
@@ -26,9 +34,9 @@ Hotkeys for [Evil Genius 2](https://evilgeniusgame.com/en)
 
 ![Evil Genius 2](./img/eg2.png)
 
-### Visual Studio Code
+### Visual Studio Code: Mac OS X
 
-Profile: `profilex_VSCode`: Mac OS X
+Profile: `profilex_VSCode`
 
 Hotkeys for [Visual Studio Code](https://code.visualstudio.com/)
 

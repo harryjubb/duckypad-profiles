@@ -1,0 +1,14 @@
+z1 Lock
+z2 DPSleep
+z4 Prev
+z5 Toggle
+z7 Vol D
+z8 Mute
+z9 Vol Up
+z10 <<
+z11 || / >
+z12 >>
+BG_COLOR 213 213 213
+KEYDOWN_COLOR 254 255 255
+SWCOLOR_1 255 0 0
+SWCOLOR_2 255 147 0
